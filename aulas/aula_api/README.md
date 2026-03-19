@@ -22,7 +22,7 @@ Siga os passos abaixo para rodar esse projeto no seu computador:
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/CaioDet/aula-back-end-3S2.git](https://github.com/CaioDet/aula-back-end-3S2.git)
+git clone https://github.com/CaioDet/aula-back-end-3S2.git
 
 2. Entre na pasta correta do projeto:
    
